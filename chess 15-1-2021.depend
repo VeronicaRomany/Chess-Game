@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610816397 source:d:\comp sem 1\programming\project\chess 15-1-2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+
